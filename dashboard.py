@@ -14,13 +14,13 @@ import spotipy
 import spotipy.util
 import seaborn as sns
 
-# use your credentials
-os.environ["SPOTIPY_CLIENT_ID"] = 'e6f76006592b44b28ca91cd257aef7fb'
-os.environ["SPOTIPY_CLIENT_SECRET"] = '71e1ef1ef7304dbf812ad3abbb7b84eb'
+# use your credentials Spotify Dev
+os.environ["SPOTIPY_CLIENT_ID"] = '' 
+os.environ["SPOTIPY_CLIENT_SECRET"] = ''
 os.environ["SPOTIPY_REDIRECT_URI"] = 'http://127.0.0.1:8080/callback'
 
 scope = 'user-library-read'
-username = 'Lucas'
+username = ''
 
 token = spotipy.util.prompt_for_user_token(username, scope)
 
