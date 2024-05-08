@@ -7,9 +7,16 @@ Content based Recommendation
 # Step2. running Producer
 ![image](https://github.com/huuquangg/SpotifyRecommendationSys/assets/98322281/cbdacf2c-2c44-49fd-84f2-22ac08af9b7f)
 
-# Step3. Running Steamming
+# Step3. Running Steamming (keep running producer)
+#### Result
+![image](https://github.com/huuquangg/SpotifyRecommendationSys/assets/98322281/ef19ff2e-83d6-4c78-82aa-e6c6ab1ea217)
 
+# Step4. Visualize using Streamlit
 
+![image](https://github.com/huuquangg/SpotifyRecommendationSys/assets/98322281/d1345cd4-91cf-4f97-afea-33c622763c73)
+
+#### Recommend Song
+![image](https://github.com/huuquangg/SpotifyRecommendationSys/assets/98322281/725070f2-3e99-4f38-a0a0-a43e94617d2a)
 
 
 Thanks for the origin Contributors:
